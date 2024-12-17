@@ -1,5 +1,5 @@
 <template>
-  <section class="mt-20 md:mt-40 mb-20 md:mb-40 bg-color-thirty" role="region" aria-label="Category or Platform List">
+  <section class="mt-20 md:mt-30 mb-20 md:mb-40 bg-color-thirty" role="region" aria-label="Category or Platform List">
     <div class="max-w-6xl mx-auto space-y-8 px-4 sm:px-6 lg:px-8">
       <!-- Recorre las categorías o plataformas únicas -->
       <div v-for="(group, index) in randomGroups" :key="index">

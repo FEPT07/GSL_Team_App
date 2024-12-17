@@ -28,10 +28,10 @@
               Siempre dispuesto a aprender y mejorar.
             </p>
             <div class="flex items-center gap-4 mt-2">
-              <a href="#">
+              <a href="https://github.com/jerardmacias" target="_blank">
                 <img class="w-10 md:w-12" src="../assets/github-icon.svg" alt="Repositorio en GitHub de Gerard" />
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/gerardomacias74/" target="_blank">
                 <img class="w-8 md:w-10" src="../assets/linkedin-icon.svg" alt="Perfil de LinkedIn de Gerard" />
               </a>
             </div>
@@ -46,10 +46,10 @@
               Desarrollador front-end apasionado por la tecnología y el diseño, con el objetivo de alcanzar la maestría en el área.
             </p>
             <div class="flex items-center gap-4 mt-2">
-              <a href="https://github.com/SebastienLeger02">
+              <a href="https://github.com/SebastienLeger02" target="_blank">
                 <img class="w-10 md:w-12" src="../assets/github-icon.svg" alt="Repositorio en GitHub de Sébastien" />
               </a>
-              <a href="https://www.linkedin.com/in/sebastien-dev/">
+              <a href="https://www.linkedin.com/in/sebastien-dev/" target="_blank">
                 <img class="w-8 md:w-10" src="../assets/linkedin-icon.svg" alt="Perfil de LinkedIn de Sébastien" />
               </a>
             </div>
@@ -65,10 +65,10 @@
               evolucionando dentro del campo de la tecnología.
             </p>
             <div class="flex items-center gap-4 mt-2">
-              <a href="#">
+              <a href="https://github.com/lenrprueba/" target="_blank">
                 <img class="w-10 md:w-12" src="../assets/github-icon.svg" alt="Repositorio en GitHub de Lenin" />
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/lenin-ruiz-b7a317131/" target="_blank">
                 <img class="w-8 md:w-10" src="../assets/linkedin-icon.svg" alt="Perfil de LinkedIn de Lenin" />
               </a>
             </div>

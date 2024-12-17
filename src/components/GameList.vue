@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4 py-10 bg-color-thirty" role="region" aria-labelledby="game-list-heading">
+  <div class="container mx-auto px-4 py-10 mt-20 bg-color-thirty" role="region" aria-labelledby="game-list-heading">
     <h1 id="game-list-heading" class="text-2xl font-bold mb-4 text-white">
       <span v-if="category">Más juegos de esta categoría</span>
       <span v-else-if="platform">Más juegos de esta plataforma</span>
