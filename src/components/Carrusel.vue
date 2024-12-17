@@ -77,6 +77,7 @@ export default {
   },
   computed: {
     ...mapStores(useApiStore),
+    
   },
   watch: {
     platform: "fetchAndResetGames",
