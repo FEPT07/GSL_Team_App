@@ -38,7 +38,7 @@
         </section>
       </div>
     </section>
-    <section class="mx-[12%]">
+    <section class="mx-[2%] md:mx-6 lg:mx-[12%]">
       <section class="bg-color-secondary p-[5%] mt-24 rounded-[25px]" aria-labelledby="description-heading">
         <h3 id="description-heading" class="text-xl font-bold">Description:</h3>
         <p class="mt-4">{{ gameDetail.description }}</p>
@@ -52,7 +52,7 @@
         </div>
       </div>
     </section>
-    <section class="mx-[22%] my-24" aria-labelledby="system-requirements-heading">
+    <section class="mx-[2%] lg:mx-[12%] xl:mx-[22%] my-24" aria-labelledby="system-requirements-heading">
       <div class="grid grid-cols-2 grid-rows-6 border-2 border-white">
         <div class="col-span-2 border-b-2 border-white pl-3 py-1.5 font-bold content-center">
                 <h3 id="system-requirements-heading" class="text-2xl">Minimum System Requirements</h3>

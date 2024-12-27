@@ -20,8 +20,7 @@
           <h2 id="profile-section-heading" class="sr-only">Perfiles de Desarrolladores</h2>
           <!-- Perfil Gerard -->
           <div class="flex flex-col items-center text-center p-6 rounded-lg shadow-lg border-2 custom-shadow" role="article" aria-labelledby="gerard-profile-heading">
-            <img class="w-[120px] md:w-[140px] rounded-full mb-6 shadow-lg object-cover"
-              src="../../public/DevPictures/Gerard-Macias.jpg" alt="Foto de Gerard Macias" />
+            <img class="w-[120px] md:w-[140px] rounded-full mb-6 shadow-lg object-cover" src="../../public/photos/gerardmacias.jpg" alt="Foto de Gerard Macias" />
             <h3 id="gerard-profile-heading" class="text-xl md:text-3xl font-bold mb-2">Gerard Macias</h3>
             <p class="text-md md:text-lg">
               Desarrollador Full Stack con experiencia en diversas tecnologías y enfoque en la mejora continua.
@@ -39,7 +38,7 @@
           <!-- Perfil Sébastien -->
           <div class="flex flex-col items-center text-center p-6 rounded-lg shadow-lg border-2 custom-shadow" role="article" aria-labelledby="sebastien-profile-heading">
             <img class="w-[120px] md:w-[140px] rounded-full mb-6 shadow-lg object-cover"
-              src="../../public/DevPictures/Sebastien-Leger.png" alt="Foto de Sébastien Léger" />
+              src="../../public/photos/sebastienleger.jpg" alt="Foto de Sébastien Léger" />
             <h3 id="sebastien-profile-heading" class="text-xl md:text-3xl font-bold mb-2">Sébastien Léger</h3>
             <p class="text-md md:text-lg">
               Desarrollador front-end apasionado por la tecnología y el diseño, con el objetivo de alcanzar la maestría en el área.
@@ -57,7 +56,7 @@
           <!-- Perfil Lenin -->
           <div class="flex flex-col items-center text-center p-6 rounded-lg shadow-lg border-2 custom-shadow" role="article" aria-labelledby="lenin-profile-heading">
             <img class="w-[120px] md:w-[140px] rounded-full mb-6 shadow-lg object-cover"
-              src="../../public/DevPictures/Lenin-Ruiz.jpg" alt="Foto de Lenin Ruiz" />
+              src="../../public/photos/leninruiz.jpg" alt="Foto de Lenin Ruiz" />
             <h3 id="lenin-profile-heading" class="text-xl md:text-3xl font-bold mb-2">Lenin Ruiz</h3>
             <p class="text-md md:text-lg">
               Desarrollador Full Stack y front-end con ganas de seguir

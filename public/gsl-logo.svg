@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 720" width="720" height="720">
+  <circle cx="360" cy="360" r="250" fill="none" stroke="url(#neonGradient)" stroke-width="20"/>
+  <circle cx="360" cy="360" r="230" fill="none" stroke="rgba(255, 255, 255, 0.1)" stroke-width="10"/>
+  <defs>
+    <radialGradient id="neonGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#c84ef7"/>
+      <stop offset="50%" stop-color="#6e59f2"/>
+      <stop offset="100%" stop-color="#32e4f7"/>
+    </radialGradient>
+  </defs>
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-weight="bold" font-size="40" fill="white" text-anchor="middle" dominant-baseline="middle" style="letter-spacing: 5px;">
+    GSL TEAM APP
+  </text>
+</svg>

@@ -315,7 +315,7 @@ export default {
   position: absolute;
   top: 74%;
   right: 54%;
-  z-index: 100;
+  z-index: 10;
   width: 300px;
   max-width: 30%;
   display: flex;
